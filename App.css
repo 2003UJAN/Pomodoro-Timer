@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.timer {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.settings label {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.settings input {
+  padding: 8px;
+  font-size: 1em;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+.buttons button {
+  padding: 10px 20px;
+  margin: 0 5px;
+  font-size: 1em;
+}
+
+.progress-bar {
+  background-color: #ddd;
+  height: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.progress-bar-fill {
+  background-color: #4caf50;
+  height: 100%;
+  border-radius: 10px;
+}
